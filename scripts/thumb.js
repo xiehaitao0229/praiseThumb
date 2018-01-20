@@ -1,0 +1,2 @@
+import Thumb from './index';
+
